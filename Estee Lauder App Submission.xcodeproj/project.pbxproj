@@ -14,6 +14,16 @@
 		7A96E389289B286500BBE095 /* Estee_Lauder_App_Submission.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7A96E387289B286500BBE095 /* Estee_Lauder_App_Submission.xcdatamodeld */; };
 		7A96E38B289B286C00BBE095 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E38A289B286C00BBE095 /* Assets.xcassets */; };
 		7A96E38E289B286C00BBE095 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E38C289B286C00BBE095 /* LaunchScreen.storyboard */; };
+		7A96E39C289B2BB100BBE095 /* Screen Shot 2022-08-03 at 3.18.17 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E39B289B2BB100BBE095 /* Screen Shot 2022-08-03 at 3.18.17 PM.png */; };
+		7A96E39E289B2DF500BBE095 /* Screen Shot 2022-08-03 at 3.27.45 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E39D289B2DF500BBE095 /* Screen Shot 2022-08-03 at 3.27.45 PM.png */; };
+		7A96E3D0289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.18 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3CE289C5CEF00BBE095 /* Screen Shot 2022-08-04 at 12.54.18 PM.png */; };
+		7A96E3D1289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.32 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3CF289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.32 PM.png */; };
+		7A96E3D3289C5CFB00BBE095 /* Screen Shot 2022-08-04 at 12.54.48 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3D2289C5CFA00BBE095 /* Screen Shot 2022-08-04 at 12.54.48 PM.png */; };
+		7A96E3D5289C7E9500BBE095 /* Screen Shot 2022-08-04 at 3.24.15 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3D4289C7E9500BBE095 /* Screen Shot 2022-08-04 at 3.24.15 PM.png */; };
+		7A96E3DC289C825900BBE095 /* Screen Shot 2022-08-04 at 3.40.18 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3DB289C825900BBE095 /* Screen Shot 2022-08-04 at 3.40.18 PM.png */; };
+		7A96E3DE289C834E00BBE095 /* Screen Shot 2022-08-04 at 3.44.21 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3DD289C834D00BBE095 /* Screen Shot 2022-08-04 at 3.44.21 PM.png */; };
+		7A96E3E0289C83F200BBE095 /* Screen Shot 2022-08-04 at 3.47.06 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3DF289C83F200BBE095 /* Screen Shot 2022-08-04 at 3.47.06 PM.png */; };
+		7A96E3E3289C8E0100BBE095 /* Screen Shot 2022-08-04 at 4.30.01 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A96E3E2289C8E0100BBE095 /* Screen Shot 2022-08-04 at 4.30.01 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +36,19 @@
 		7A96E38A289B286C00BBE095 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A96E38D289B286C00BBE095 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A96E38F289B286C00BBE095 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A96E39B289B2BB100BBE095 /* Screen Shot 2022-08-03 at 3.18.17 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-03 at 3.18.17 PM.png"; sourceTree = "<group>"; };
+		7A96E39D289B2DF500BBE095 /* Screen Shot 2022-08-03 at 3.27.45 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-03 at 3.27.45 PM.png"; sourceTree = "<group>"; };
+		7A96E3CE289C5CEF00BBE095 /* Screen Shot 2022-08-04 at 12.54.18 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 12.54.18 PM.png"; sourceTree = "<group>"; };
+		7A96E3CF289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.32 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 12.54.32 PM.png"; sourceTree = "<group>"; };
+		7A96E3D2289C5CFA00BBE095 /* Screen Shot 2022-08-04 at 12.54.48 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 12.54.48 PM.png"; sourceTree = "<group>"; };
+		7A96E3D4289C7E9500BBE095 /* Screen Shot 2022-08-04 at 3.24.15 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 3.24.15 PM.png"; sourceTree = "<group>"; };
+		7A96E3D7289C816B00BBE095 /* Screen Shot 2022-08-04 at 3.34.04 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-04 at 3.34.04 PM.png"; path = "../../Screen Shot 2022-08-04 at 3.34.04 PM.png"; sourceTree = "<group>"; };
+		7A96E3D9289C816B00BBE095 /* Screen Shot 2022-08-04 at 3.34.59 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-04 at 3.34.59 PM.png"; path = "../../Screen Shot 2022-08-04 at 3.34.59 PM.png"; sourceTree = "<group>"; };
+		7A96E3DA289C816C00BBE095 /* Screen Shot 2022-08-04 at 3.34.54 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-04 at 3.34.54 PM.png"; path = "../../Screen Shot 2022-08-04 at 3.34.54 PM.png"; sourceTree = "<group>"; };
+		7A96E3DB289C825900BBE095 /* Screen Shot 2022-08-04 at 3.40.18 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 3.40.18 PM.png"; sourceTree = "<group>"; };
+		7A96E3DD289C834D00BBE095 /* Screen Shot 2022-08-04 at 3.44.21 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 3.44.21 PM.png"; sourceTree = "<group>"; };
+		7A96E3DF289C83F200BBE095 /* Screen Shot 2022-08-04 at 3.47.06 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 3.47.06 PM.png"; sourceTree = "<group>"; };
+		7A96E3E2289C8E0100BBE095 /* Screen Shot 2022-08-04 at 4.30.01 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2022-08-04 at 4.30.01 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +89,19 @@
 				7A96E38C289B286C00BBE095 /* LaunchScreen.storyboard */,
 				7A96E38F289B286C00BBE095 /* Info.plist */,
 				7A96E387289B286500BBE095 /* Estee_Lauder_App_Submission.xcdatamodeld */,
+				7A96E39B289B2BB100BBE095 /* Screen Shot 2022-08-03 at 3.18.17 PM.png */,
+				7A96E39D289B2DF500BBE095 /* Screen Shot 2022-08-03 at 3.27.45 PM.png */,
+				7A96E3CE289C5CEF00BBE095 /* Screen Shot 2022-08-04 at 12.54.18 PM.png */,
+				7A96E3DF289C83F200BBE095 /* Screen Shot 2022-08-04 at 3.47.06 PM.png */,
+				7A96E3DD289C834D00BBE095 /* Screen Shot 2022-08-04 at 3.44.21 PM.png */,
+				7A96E3CF289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.32 PM.png */,
+				7A96E3D7289C816B00BBE095 /* Screen Shot 2022-08-04 at 3.34.04 PM.png */,
+				7A96E3DA289C816C00BBE095 /* Screen Shot 2022-08-04 at 3.34.54 PM.png */,
+				7A96E3E2289C8E0100BBE095 /* Screen Shot 2022-08-04 at 4.30.01 PM.png */,
+				7A96E3DB289C825900BBE095 /* Screen Shot 2022-08-04 at 3.40.18 PM.png */,
+				7A96E3D9289C816B00BBE095 /* Screen Shot 2022-08-04 at 3.34.59 PM.png */,
+				7A96E3D2289C5CFA00BBE095 /* Screen Shot 2022-08-04 at 12.54.48 PM.png */,
+				7A96E3D4289C7E9500BBE095 /* Screen Shot 2022-08-04 at 3.24.15 PM.png */,
 			);
 			path = "Estee Lauder App Submission";
 			sourceTree = "<group>";
@@ -128,8 +164,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A96E3E3289C8E0100BBE095 /* Screen Shot 2022-08-04 at 4.30.01 PM.png in Resources */,
 				7A96E38E289B286C00BBE095 /* LaunchScreen.storyboard in Resources */,
+				7A96E39C289B2BB100BBE095 /* Screen Shot 2022-08-03 at 3.18.17 PM.png in Resources */,
+				7A96E3D1289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.32 PM.png in Resources */,
+				7A96E3E0289C83F200BBE095 /* Screen Shot 2022-08-04 at 3.47.06 PM.png in Resources */,
 				7A96E38B289B286C00BBE095 /* Assets.xcassets in Resources */,
+				7A96E3D3289C5CFB00BBE095 /* Screen Shot 2022-08-04 at 12.54.48 PM.png in Resources */,
+				7A96E3DC289C825900BBE095 /* Screen Shot 2022-08-04 at 3.40.18 PM.png in Resources */,
+				7A96E3D5289C7E9500BBE095 /* Screen Shot 2022-08-04 at 3.24.15 PM.png in Resources */,
+				7A96E3D0289C5CF000BBE095 /* Screen Shot 2022-08-04 at 12.54.18 PM.png in Resources */,
+				7A96E3DE289C834E00BBE095 /* Screen Shot 2022-08-04 at 3.44.21 PM.png in Resources */,
+				7A96E39E289B2DF500BBE095 /* Screen Shot 2022-08-03 at 3.27.45 PM.png in Resources */,
 				7A96E386289B286500BBE095 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
